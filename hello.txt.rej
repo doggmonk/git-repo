@@ -1,0 +1,9 @@
+diff a/hello.txt b/hello.txt	(rejected hunks)
+@@ -3,5 +3,4 @@
+ print("hello world")print("hello world")
+ print("hello world")print("hello world")
+ print("hello world")print("hello world")
+-print("hello world")
+\ No newline at end of file
+ print("hello world")----
+\ No newline at end of file
